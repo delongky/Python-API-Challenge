@@ -9,4 +9,5 @@ The second part of the challenge built upon the first and utlized Google Places 
 An initial heatmap was created to illustrate different humidity percentages throughout the world, based on the data collected in the weather challenge.
 The large dataset was then filtered down to include only cities with ideal temperature range (70-80) & cloudless skies.  Using geocities within the Google API, I located the closest hotel to each city's coordinates and added markers to the heatmap.
 
-# NOTE: Unique API keys are required to call data from both OpenWeatherAPI & Google Maps API.  My config file containing both of my keys was not included for security purposes.
+# NOTE: 
+Unique API keys are required to call data from both OpenWeatherAPI & Google Maps API.  My config file containing both of my keys was not included for security purposes.
